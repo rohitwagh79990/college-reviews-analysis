@@ -1,2 +1,28 @@
-# college-reviews-analysis
-College reviews analysis and comparison using Python, Pandas, Regex, Matplotlib and Seaborn.
+College Review Analysis and Comparison
+
+Project Overview
+
+This project focuses on analyzing and comparing college reviews using Python and data analysis libraries.
+
+Tools and Technologies
+
+- Python
+- Pandas
+- Regex
+- Matplotlib
+- Seaborn
+
+Objectives
+
+- Analyze college review data.
+- Compare colleges based on available review information.
+- Clean and process text data using Regex.
+- Visualize findings using Matplotlib and Seaborn.
+
+Project Type
+
+Data Analysis | Python | Data Visualization
+
+Author
+
+Rohit Wagh
