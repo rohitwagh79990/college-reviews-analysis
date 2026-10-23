@@ -23,6 +23,10 @@ Project Type
 
 Data Analysis | Python | Data Visualization
 
+Project Code
+
+"View Python Code" (https://github.com/rohitwagh79990/college-reviews-analysis/blob/main/Project_1st.py)
+
 Author
 
 Rohit Wagh
